@@ -1,2 +1,2 @@
 # Capstone-Project-Notebook
-Repository for the Applied Data Science Capstone proyect.
+Repository for the Applied Data Science Capstone project.
